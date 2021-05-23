@@ -8,7 +8,7 @@ Java implementation of various sorting algorithms to sort UPC-14 product codes f
 * [Author](#author)
 
 ## General Info
-The motivation behind this project was to compare and contrast the speed of various sorting algorithms (QuickSort, HeapSort, and RadixSort) with their theoretical time-complexities. Click [here](./CSV_Sorting_Complexity.pdf) to view the results of this analysis. 
+The motivation behind this project was to compare and contrast the speed of various sorting algorithms (QuickSort, HeapSort, and RadixSort) with their theoretical time-complexities on both sorted and unsorted data. Click [here](./CSV_Sorting_Complexity.pdf) to view the results of this analysis. 
 
 ## Technologies
 Project is created with:
